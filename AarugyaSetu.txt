@@ -1,0 +1,41 @@
+
+AArogya- Setu:
+
+Home Module:
+	landing-home comp
+	vaccination count comp
+	serch vaccination point comp
+	whatsnewComp
+	raiseIssueComp
+	stepsToVaccinateComp
+	FAQComp
+	summaryVaccination
+	ourPartnerComp
+	
+Dashboard Module:
+	Summary Comp
+	vaccination trend comp. --> all graphs -- use primeng chart or chart.js charts.
+	
+Admin Module:
+	dashboard comp.
+
+Registration Module: will navigate to this module while u successfully login to the application with OTP.
+	registeredMember comp
+	addNewMemberComp.
+
+Common Module:
+	Header comp 
+	footer comp
+	About us comp.
+	login / register comp
+	
+	
+	API's for AArogya-setu:
+	
+	https://apisetu.gov.in/api/cowin#/
+	
+	1. generate otp:
+	post method: 
+
+
+	
